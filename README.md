@@ -1,4 +1,4 @@
-# Document-Based-Q-A-using-Langchain
+# Document-Based-Q&A-using-Langchain
 📄 Document-Based Q&amp;A Chatbot with Streamlit and LangChain
 
 This project is a RAG (Retrieval-Augmented Generation) chatbot interface that allows users to ask questions about the content of a text file. 
